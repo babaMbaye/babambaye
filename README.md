@@ -12,19 +12,19 @@ My mission: **transform complex business challenges into reliable, governed and 
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🎓 Ph.D. in Artificial Intelligence & Knowledge Engineering (CIFRE)
-- 🏗️ Principal AI Architect / Head of AI R&D
-- 🤖 Building enterprise GenAI solutions with LLMs, RAG and AI Agents
-- 📐 Designing scalable AI & Data architectures
-- 🔬 Bridging academic research and industrial innovation
-- 👥 Leading AI engineering and data science teams
-- 💡 Experience with AI innovation programs (CIR, CII, Deeptech)
+-  Ph.D. in Artificial Intelligence & Knowledge Engineering (CIFRE)
+-  Principal AI Architect / Head of AI R&D
+-  Building enterprise GenAI solutions with LLMs, RAG and AI Agents
+-  Designing scalable AI & Data architectures
+-  Bridging academic research and industrial innovation
+-  Leading AI engineering and data science teams
+-  Experience with AI innovation programs (CIR, CII, Deeptech)
 
 ---
 
-# 🧠 AI Expertise
+#  AI Expertise
 
 ## Generative AI
 
@@ -55,7 +55,7 @@ Technologies:
 
 ---
 
-# 🏗️ AI Architecture & Engineering
+#  AI Architecture & Engineering
 
 I design end-to-end AI systems covering:
 
@@ -85,7 +85,7 @@ Areas of expertise:
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ## Programming
 
@@ -115,7 +115,7 @@ AWS · Azure · GCP
 
 ---
 
-# 🔬 Research Background
+#  Research Background
 
 ## Ph.D. in Artificial Intelligence
 
@@ -133,22 +133,22 @@ Applied research conducted in collaboration with industry through a CIFRE PhD.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🤖 Generative AI Applications
+##  Generative AI Applications
 
 - LLM-powered assistants
 - Enterprise RAG systems
 - AI Agents
 - Knowledge-based conversational systems
 
-## 🔍 Intelligent Search & Recommendation
+##  Intelligent Search & Recommendation
 
 - Hybrid recommendation engines
 - Semantic search
 - Knowledge graph-based systems
 
-## 🏭 Industrial AI
+##  Industrial AI
 
 - NLP automation
 - Computer Vision solutions
@@ -156,7 +156,7 @@ Applied research conducted in collaboration with industry through a CIFRE PhD.
 
 ---
 
-# 📚 Current Interests
+#  Current Interests
 
 - Agentic AI architectures
 - Enterprise RAG patterns
@@ -167,7 +167,7 @@ Applied research conducted in collaboration with industry through a CIFRE PhD.
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -175,11 +175,11 @@ Applied research conducted in collaboration with industry through a CIFRE PhD.
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/baba-mbaye-ph-d-8ba84888
+LinkedIn: https://www.linkedin.com/in/baba-mbaye-ph-d-8ba84888
 
-📧 Email: mbayeinc@gmail.com
+Email: mbayeinc@gmail.com
 
 
 ---
