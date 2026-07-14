@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Baba Mbaye, Ph.D.
+# Hi, I'm Baba Mbaye, Ph.D.
 
 ## Principal AI Architect | GenAI · LLM · RAG · Data Architecture
 
-📍 Lyon, France
+ Lyon, France
 
 I am an AI Architect and R&D leader with a Ph.D. in Artificial Intelligence and 8+ years of experience designing and delivering production-grade AI solutions.
 
